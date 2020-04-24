@@ -219,6 +219,6 @@ ASCII（美国信息交换标准码）：用二进制数存储字符。
 
 ## 四、智能时代（4分）
 
-<center>**试读已结束**</center>
-<center>请扫描下面的二维码，解锁剩余的90%内容！</center>
+<center>**试读已结束**</center><br>
+<center>请扫描下面的二维码，解锁剩余的90%内容！</center><br>
 [](qr.jpg)
